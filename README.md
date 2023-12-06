@@ -1,9 +1,8 @@
-# cHealth
-clonal HEmopoiesis And teLomere lengTH
+## Improving prognostic assignment in older adults with multiple myeloma using acquired genetic features, clonal hemopoiesis and telomere length.
 
-This repository holds the scripts and files used for the bioinformatic analysis of whole-exome sequencing data as described in [Improving prognostic assignment in older adults with multiple myeloma using acquired genetic features, clonal hemopoiesis and telomere length](https://www.nature.com/articles/s41375-021-01320-3)
+>This repository holds the scripts and files used for the bioinformatic analysis of whole-exome sequencing data as described in [Boyle, E.M., Williams, L., Blaney, P. et al.](https://www.nature.com/articles/s41375-021-01320-3)
 
-## Analysis Workflow
+### Analysis Workflow
 The analysis is largely executed within the `clonalHematopoiesisOfCommpassPatients.Rmd` which includes detailed comments on each step in the workflow.
 
 However, the full detailed methods are included in the **Bioinformatics analysis of massively parallel sequencing data alignments** section of the Supplemental material of the paper linked above.
